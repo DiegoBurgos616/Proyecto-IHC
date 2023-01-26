@@ -1,5 +1,4 @@
 # Proyecto-IHC
-# Arquitectura-de-Software
 
 <h2>Repositorio GitHub del proyecto</h2>
 
